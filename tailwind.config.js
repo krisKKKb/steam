@@ -10,8 +10,10 @@ module.exports = {
                 'navy-500': '#171a21',
                 'green-steam': '#5c7e10',
                 'blue-steam': 'rgba(62, 126, 167, 0.8)',
-                'blue-border': 'rgba(16, 21, 25, 0.3)'
             }
+            backgroundImage: theme => ({
+                'steam-bg': "url('/public/images/v6/colored_body_top2.png?v=2')",
+            })
         },
     },
     variants: {},
