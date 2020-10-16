@@ -5,7 +5,7 @@
 <script>
 import PrimaryNav from "./components/PrimaryNav.vue";
 import SecondaryNav from "./components/SecondaryNav.vue";
-import links from "./components/links";
+import links from "./components/links.vue";
 export default {
   name: "App",
   components: {
