@@ -26,7 +26,7 @@
       <span class="text-white hover:text-gray-700 p-4">Labor</span>
     </div>
     <div class="p-4 ml-auto">
-      <input type="text" name="search" />
+      <input class="bg-blue-900" type="text" name="search" placeholder="Otsi" />
     </div>
   </div>
 </template>
