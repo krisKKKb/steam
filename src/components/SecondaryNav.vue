@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-blue-steam flex mx-40 text-white">
+  <div class="bg-blue-steam flex mx-40 text-white my-10">
     <div
       class="p-4 border-solid border-r-2 border-gray-700 bg-gradient-to-b hover:from-gray-300 hover:to-gray-400"
     >
